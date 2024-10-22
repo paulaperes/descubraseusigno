@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<signos>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>Pessoas de Áries são corajosas, cheias de energia e iniciativa.</descricao>
+        <imagemUrl>assets/imgs/aries.png</imagemUrl>
+    </signo>
+    
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>Taurinos são determinados, confiáveis e práticos.</descricao>
+        <imagemUrl>assets/imgs/touro.png</imagemUrl>
+    </signo>
+    
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <descricao>Geminianos são inteligentes, versáteis e comunicativos.</descricao>
+        <imagemUrl>assets/imgs/gemeos.png</imagemUrl>
+    </signo>
+
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descricao>Cancerianos são emocionais, protetores e sensíveis.</descricao>
+        <imagemUrl>assets/imgs/cancer.png</imagemUrl>
+    </signo>
+    
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>Leoninos são orgulhosos, generosos e têm grande confiança.</descricao>
+        <imagemUrl>assets/imgs/leao.png</imagemUrl>
+    </signo>
+    
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>Virginianos são analíticos, meticulosos e práticos.</descricao>
+        <imagemUrl>assets/imgs/virgem.png</imagemUrl>
+    </signo>
+
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>Libranos são equilibrados, diplomáticos e gostam de harmonia.</descricao>
+        <imagemUrl>assets/imgs/libra.png</imagemUrl>
+    </signo>
+
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>Escorpianos são intensos, determinados e apaixonados.</descricao>
+        <imagemUrl>assets/imgs/escorpiao.png</imagemUrl>
+    </signo>
+    
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <descricao>Sagitarianos são otimistas, independentes e amantes da aventura.</descricao>
+        <imagemUrl>assets/imgs/sagitario.png</imagemUrl>
+    </signo>
+    
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descricao>Capricornianos são responsáveis, disciplinados e pacientes.</descricao>
+        <imagemUrl>assets/imgs/capricornio.png</imagemUrl>
+    </signo>
+
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>18/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <descricao>Aquarianos são inovadores, visionários e adoram liberdade.</descricao>
+        <imagemUrl>assets/imgs/aquario.png</imagemUrl>
+    </signo>
+
+    <signo>
+        <dataInicio>19/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>Piscianos são empáticos, sonhadores e intuitivos.</descricao>
+        <imagemUrl>assets/imgs/peixes.png</imagemUrl>
+    </signo>
+</signos>
