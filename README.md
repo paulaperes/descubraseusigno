@@ -1,7 +1,10 @@
 # descubraseusigno
 Projeto - Programação Web UNOPAR
+
 Descubra Seu Signo 🌟
-Este projeto é uma aplicação web simples que permite ao usuário descobrir seu signo zodiacal com base em sua data de nascimento. Ele foi desenvolvido usando PHP, HTML, CSS, XML e JavaScript.
+
+Este projeto é uma aplicação web simples que permite ao usuário descobrir seu signo zodiacal 
+com base em sua data de nascimento. Ele foi desenvolvido usando PHP, HTML, CSS, XML e JavaScript.
 
 Funcionalidades
 Permite que o usuário insira sua data de nascimento.
